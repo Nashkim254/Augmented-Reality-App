@@ -1,6 +1,6 @@
 # ar_core
 
-A new Flutter project.
+A new Flutter application based on augmented reality
 
 ## Getting Started
 
